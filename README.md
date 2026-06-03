@@ -5,9 +5,9 @@ My name is **Daniella Camilo**, also known as `daniellacamilo` in the programmin
 ### 🛠️ My Technologies and Tools
 
 Here are the main technologies I currently work with and study:
-- **Linguagens:** [JavaScript](https://shields.io) [TypeScript](https://shields.io)
-- **Front-end:** [React](https://shields.io) 
-- **Back-end & Banco de Dados:** [Node.js](https://shields.io) [MySQL](https://shields.io)
+- **Linguagens:** JavaScript], TypeScript
+- **Front-end:** React
+- **Back-end & Banco de Dados:** Node.js, MySQL
 
 
 ### 📫 How to contact me?
