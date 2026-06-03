@@ -5,7 +5,7 @@ My name is **Daniella Camilo**, also known as `daniellacamilo` in the programmin
 ### 🛠️ My Technologies and Tools
 
 Here are the main technologies I currently work with and study:
-- **Linguagens:** JavaScript], TypeScript
+- **Linguagens:** JavaScript, TypeScript
 - **Front-end:** React
 - **Back-end & Banco de Dados:** Node.js, MySQL
 
